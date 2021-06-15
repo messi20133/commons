@@ -18,5 +18,8 @@
       "sourceType": "module"
     },
     "rules": {}
+  },
+  "devDependencies": {
+    "dayjs": "^1.10.5"
   }
 }
